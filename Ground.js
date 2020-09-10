@@ -2,7 +2,7 @@ class Ground {
     constructor(x, y, width, height) {
         var options = {
             isStatic: true,
-            density : 3.5
+            density : 5.5
         }
         this.width = width;
         this.height = height;
